@@ -4,3 +4,4 @@ Data Collection and Cleaning
 For the collection of data, we used a dataset through kaggle and performed the cleaning process through Excel using a power query. Our cleaning process included removing unwanted columns, nulls and duplicate contents. 
 Analysis through Visualization and EDA
 The major minor analysis performed through Jupyter lab and the visualization through Power BI provided us with insights that the division Dhaka and the city Dhaka is the most crowded division and city of Bangladesh. Similarly the multiple hypothesis testing provided us with approval of our initially set hypothesis which stated that The capital, Dhaka is the most populated city of Bangladesh. 
+![Github](https://github.com/Sampada-Dhungana/Sampada-Ezee-Pair-Project-/assets/159395830/e0d46f5b-8eeb-45c8-bb99-5889b7fbfd37)
